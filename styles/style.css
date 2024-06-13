@@ -247,31 +247,27 @@
 }
 
 .person_name_feynman {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  position: absolute;
   top: -30px;
   right: 319px;
 }
 
 .person_name_burbidge {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   top: 96px;
   right: 125px;
 }
 
 .person_name_cannon {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   bottom: 18px;
   right: 216px;
 }
 
 .person_name_mitchell {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   bottom: 82px;
   left: 142px;
 }
 
 .person_name_tarter {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   top: 79px;
   left: 159px;
 }
