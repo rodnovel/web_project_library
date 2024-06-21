@@ -371,6 +371,7 @@
 
 .footer__list {
   /* El siguiente código elimina los estilos predeterminados del navegador para las listas */
+  list-style-type: none;
   padding: 0;
   margin: 0;
 }
